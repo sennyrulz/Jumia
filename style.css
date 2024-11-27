@@ -1,0 +1,400 @@
+body{
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.TopGif{
+    margin: 0 0 0 60px;
+}
+
+.bg-body-tertiary{
+    background-color: white !important;
+    height: 80px;
+}
+
+
+.container-fluid{
+    height: 80px;
+    
+}
+
+.Logo{
+    margin: 0 20px 0 0px;
+    height: 10px;
+    width: 10px;
+}
+
+.d-flex{
+    margin: 0 0 0 30px;
+}
+
+.form-control {
+    width: 600px !important;
+    margin: 0 0 0 -70px;
+}
+
+.btn-outline-success{
+    background-color: orange;
+    border: none;
+    color: white;
+}
+
+.navbar-nav{
+    margin: 0 0 0 90px;
+}
+
+.nav-item{
+    padding: 0 10px 0 10px;
+}
+
+.Hero{
+    margin: 15px 0 0 40px;
+    border: none;
+}
+
+.sideNav{
+    background-color: white;
+    border-radius: 10px;
+    height: 500px;
+}
+
+.sideNav ul{
+    padding: 8px;
+    margin: 26px 20px 15px 13px;
+    list-style: none;
+}
+
+.sideNav li a{
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    justify-content: space-around;
+    line-height: 2.3rem;
+}
+
+.carousel-inner{
+    width: 880px;
+}
+
+.carousel-inner img{
+    height: 500px;
+    border-radius: 10px;
+}
+
+.carousel-indicators{
+    background-color: orange !important;
+}
+
+.carousel-control-prev-icon{
+    background-color: rgb(255, 208, 0) !important;
+    border-radius: 500%;
+    height: 40px;
+    width: 40px;
+}
+
+.carousel-control-next-icon{
+    background-color: rgb(255, 208, 0) !important;
+    border-radius: 500%;
+    height: 40px;
+    width: 40px;
+}
+
+
+.RightCard1{
+    margin: 0 0 250px 10px;
+}
+
+.RightCard1 img{
+    height: 50px;
+}
+
+.RightCard2{
+    margin: -235px 0 0 10px;
+}
+
+.RightCard2 img{
+    height: 242px;
+}
+
+.TopCardSegment{
+    justify-content: space-between;
+    width: 94.5%;
+    margin: 15px 0 0 40px;
+    background-color: white;
+    height: 260px;
+    border-radius: 10px;
+    
+}
+
+.Topcard-row{
+    display: flex;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.Topcards1{
+    margin: 15px 0 0 15px;
+    width: 180px;
+}
+
+.Topcards1 .card{
+    border: none;
+}
+
+.Topcards2{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards2 .card{
+    border: none;
+}
+
+.Topcards3{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards3 .card{
+    border: none;
+}
+
+.Topcards4{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards4 .card{
+    border: none;
+}
+
+.Topcards5{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards5 .card{
+    border: none;
+}
+
+.Topcards6{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards6 .card{
+    border: none;
+}
+
+.Topcards7{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards7 .card{
+    border: none;
+}
+
+.Topcards8{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards8 .card{
+    border: none;
+}
+
+.Topcards9{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+.Topcards9 .card{
+    border: none;
+}
+
+.Topcards10{
+    margin: 15px 0 0 40px;
+    width: 180px;
+}
+
+
+.Topcards10 .card{
+    border: none;
+}
+
+
+.card-img-top{
+    height: 170px;
+}
+
+.RedBanner{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: 20px 0 0 40px;
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    border-radius: 5px;
+}
+
+.RedBanner img{
+    height: 30px;
+    margin: -5px 0 0;
+}
+
+.RedBanner h3{
+    margin: -8.5px 0 0 0;
+}
+
+.RedBanner h4{
+    margin: -6px 0 0 0;
+}
+
+.RedBanner h5{
+    margin: 5px 0 0 0;
+}
+
+.SecondCardsSegment{
+    margin: -10px 0 0 40px;
+    height: 350px;
+    justify-content: space-between;
+    width: 95%;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.SecondCard1{
+    margin: 20px 0 0 25px;
+    font-size: 14px;
+}
+
+.SecondCard1 .card{
+    border: none;
+ }
+ 
+
+.SecondCard2{
+    margin: 20px 0px 0 -10px;
+    font-size: 14px;
+}
+
+.SecondCard2 .card{
+    border: none;
+ }
+ 
+
+.SecondCard3{
+    margin: 20px 0px 0 -10px;
+    font-size: 14px;
+}
+
+.SecondCard3 .card{
+    border: none;
+ }
+ 
+.SecondCard4{
+    margin: 20px 0 0 -12px;
+    font-size: 14px;
+}
+
+.SecondCard4 .card{
+    border: none;
+ }
+ 
+.SecondCard5{
+    margin: 20px 5px 0 -12px;
+    font-size: 14px;
+}
+
+.SecondCard5 .card{
+    border: none;
+ }
+ 
+
+.SecondCard6{
+    margin: 20px 5px 0 -15px;
+    font-size: 14px;
+}
+
+.SecondCard6 .card{
+    border: none;
+ }
+ 
+ .progress{
+     margin: 5px 0 0 5px;
+     height: 8px;
+     width: 190px;
+     background-color: grey;
+ }
+
+ .progress-bar{
+     background-color: orange;
+ }
+
+ .ThirdCardsSegment{
+    margin: 20px 0 0 40px;
+    height: 250px;
+    justify-content: space-between;
+    width: 95%;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.Thirdcards1{
+    margin: 20px 0 0 15px;
+    font-size: 14px;
+}
+
+.Thirdcards1 .card{
+    border: none;
+ }
+
+ .Thirdcards2{
+    margin: 20px 0 0 -2px;
+    font-size: 14px;
+}
+
+.Thirdcards2 .card{
+    border: none;
+ }
+
+ .Thirdcards3{
+    margin: 20px 0 0 -9px;
+    font-size: 14px;
+}
+
+.Thirdcards3 .card{
+    border: none;
+ }
+
+ .Thirdcards4{
+    margin: 20px 0 0 -10px;
+    font-size: 14px;
+}
+
+.Thirdcards4 .card{
+    border: none;
+ }
+
+ .Thirdcards5{
+    margin: 20px 0 0 -8px;
+    font-size: 14px;
+}
+
+.Thirdcards5 .card{
+    border: none;
+ }
+
+ .Thirdcards6{
+    margin: 20px 0 0 -6px;
+    font-size: 14px;
+}
+
+.Thirdcards6 .card{
+    border: none;
+ }
